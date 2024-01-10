@@ -1,5 +1,4 @@
 import java.util.*;
-import java.io.FileInputStream;
 
 class D4_4193
 {
@@ -56,5 +55,6 @@ class D4_4193
             }
            System.out.println("#" + test_case + " " + answer);
         }
+        sc.close();
     }
 }
